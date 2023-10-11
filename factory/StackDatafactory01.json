@@ -1,0 +1,9 @@
+{
+	"name": "StackDatafactory01",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8549ecbc-ea74-4cde-b318-a1055ab4b6ae",
+		"tenantId": "f8cffaa0-3dfd-4942-a6ff-51caac366ed1"
+	}
+}
